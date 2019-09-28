@@ -1,11 +1,11 @@
-# bash-insulter
-Randomly insults the user when typing wrong command.
+# bash-insulter with tamil insults.
+Randomly insults the user when typing wrong command with tamil words (Tanglish tha). 
 
 Change insults as needed :)
 
 ```bash
-noob@bender:~ $ sl
-
+┌─[✗]─[mag@parrot]─[~]
+└──╼$ sl
   Y u no speak computer???
 
 -bash: sl: command not found
